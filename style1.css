@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+p {
+    text-align: justify;
+}
+p#atencao {
+    background-color: rgb(126, 118, 118);
+    border-radius: 5px;
+} 
+body {
+    background-image: linear-gradient(to left, lightblue, rgb(76, 76, 230));
+}
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    text-indent: 10px;
+}
+h1 {
+    color: #F39209;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.611);
+    text-align: center;
+}
+h2 {
+    color: rgb(52, 52, 223);
+}
+.principal {
+    color: #B0CB55;
+}
+img#modificacao {
+    margin-bottom: 10px;
+}
+.width {
+    width: 500px;
+}
+.pedding {
+    border-radius: 10px;
+}
+.hover:hover {
+    color: orange;
+}
+a {
+    text-decoration: none;
+}
+A#links:active {
+    background-color: blue;
+    border-radius: 20px;
+}
+P#teste {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: gray;
+    width: 250px;
+    height: 250px;
+    border-width: 8px;
+    border-style: groove;
+    border-color: black;
+}
+span#assinatura:hover {
+    color: white;
+}
+span#color {
+    text-align: center;
+    background-color: gray;
+    border-radius: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+footer#posicao {
+    text-align: center;
+}
+nav > a {
+    text-decoration: none;
+    margin-right: 30px;
+}
+nav > a:hover {
+    text-decoration: underline;
+}
+#espaco {
+    margin-bottom: 10px;
+}
+p#sombra {
+    box-shadow: 1px 3px 5px black;
+}
