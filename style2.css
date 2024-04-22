@@ -100,4 +100,7 @@ h3 {
 ul {
     columns: 2;
 }
+.position {
+    margin-left: -14px;
+}
 
